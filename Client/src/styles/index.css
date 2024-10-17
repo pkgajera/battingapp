@@ -1,0 +1,8 @@
+.active{
+  color: #2563eb;
+}
+
+.custom-backdrop {
+  backdrop-filter: blur(10.8px);
+  -webkit-backdrop-filter: blur(10.8px);
+}
